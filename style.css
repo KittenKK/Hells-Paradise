@@ -1,0 +1,37 @@
+body{
+  
+  background-color: #C9C9C9;
+    
+    text-align:center
+  
+  
+}
+
+
+h1{
+  
+  
+  color: red;
+    border: 2px solid black;
+  padding:2px; 
+   width:200px
+}
+
+
+#Gabimaru{
+  
+  color: black
+  
+  
+}
+
+a{
+  text-decoration:none;
+    color:black;
+    border-style:solid;
+    padding:10px;
+      border-radius:5px;
+        
+       background-color:white;
+    
+}
